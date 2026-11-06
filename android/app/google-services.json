@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549831887684",
+    "project_id": "sgtenang-130209",
+    "storage_bucket": "sgtenang-130209.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549831887684:android:a84e25e4a4a58ce29a2511",
+        "android_client_info": {
+          "package_name": "com.example.sgtenang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARwuJ5BQRiq7pplEx3fmEeD4V7YnaYMcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

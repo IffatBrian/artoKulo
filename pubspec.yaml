@@ -1,0 +1,31 @@
+name: tenang_finance
+description: Aplikasi Catatan Keuangan Pribadi - artoKulo
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+  google_fonts: ^6.2.1
+  intl: ^0.20.2
+  fl_chart: ^0.69.0
+  image_picker: ^1.2.4
+  image_cropper: ^12.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
